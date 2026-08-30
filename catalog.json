@@ -1,0 +1,134 @@
+[
+  {
+    "id": "medina_green_dome",
+    "nameEn": "The Green Dome, Medina",
+    "nameAr": "القبة الخضراء — المسجد النبوي",
+    "fileName": "medina_green_dome.webp",
+    "sizeBytes": 133646,
+    "thumbSizeBytes": 15460,
+    "author": "TheHadiRahim",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close-up_shot_of_the_Green_Dome_(with_silver_dome)_at_The_Prophet%27s_Mosque_(Al_Masjid-e-Nabawi).jpg"
+  },
+  {
+    "id": "medina_dusk",
+    "nameEn": "Al-Masjid an-Nabawi at Dusk",
+    "nameAr": "المسجد النبوي عند الغروب",
+    "fileName": "medina_dusk.webp",
+    "sizeBytes": 36990,
+    "thumbSizeBytes": 6508,
+    "author": "Cognitive137",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ClosedUmbrellaOfAl-Masjid-an-Nabawi.jpg"
+  },
+  {
+    "id": "jerusalem_dome_of_rock",
+    "nameEn": "Dome of the Rock, Jerusalem",
+    "nameAr": "قبة الصخرة — القدس",
+    "fileName": "jerusalem_dome_of_rock.webp",
+    "sizeBytes": 452986,
+    "thumbSizeBytes": 38516,
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain_02.jpg"
+  },
+  {
+    "id": "cairo_muhammad_ali",
+    "nameEn": "Muhammad Ali Mosque, Cairo",
+    "nameAr": "مسجد محمد علي — القاهرة",
+    "fileName": "cairo_muhammad_ali.webp",
+    "sizeBytes": 285906,
+    "thumbSizeBytes": 51430,
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_Muhammad_Ali,_Selah-Al-Din_(Saladin)_Citadel,_Cairo_(9797499944).jpg"
+  },
+  {
+    "id": "casablanca_hassan_ii",
+    "nameEn": "Hassan II Mosque, Casablanca",
+    "nameAr": "مسجد الحسن الثاني — الدار البيضاء",
+    "fileName": "casablanca_hassan_ii.webp",
+    "sizeBytes": 351218,
+    "thumbSizeBytes": 39612,
+    "author": "Tinuzzo",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corridor_at_the_Hassan_II_Mosque,_Casablanca,_Morocco.jpg"
+  },
+  {
+    "id": "kairouan_great_mosque",
+    "nameEn": "Great Mosque of Kairouan",
+    "nameAr": "جامع عقبة بن نافع — القيروان",
+    "fileName": "kairouan_great_mosque.webp",
+    "sizeBytes": 352394,
+    "thumbSizeBytes": 30450,
+    "author": "Monaam Ben Fredj",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arcades_of_the_Great_Mosque_Okba_of_Kairouan.jpg"
+  },
+  {
+    "id": "istanbul_sultan_ahmed",
+    "nameEn": "Sultan Ahmed Mosque, Istanbul",
+    "nameAr": "مسجد السلطان أحمد — إسطنبول",
+    "fileName": "istanbul_sultan_ahmed.webp",
+    "sizeBytes": 654700,
+    "thumbSizeBytes": 70020,
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Sultan_Ahmed_Mosque_Dome,_Istanbul,_Turkey_(Ank_Kumar)_05.jpg"
+  },
+  {
+    "id": "istanbul_ortakoy",
+    "nameEn": "Ortaköy Mosque, Istanbul",
+    "nameAr": "مسجد أورطة كوي — إسطنبول",
+    "fileName": "istanbul_ortakoy.webp",
+    "sizeBytes": 307028,
+    "thumbSizeBytes": 30032,
+    "author": "Pragdon",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ortak%C3%B6y_Mosque,_2025.jpg"
+  },
+  {
+    "id": "edirne_selimiye_portal",
+    "nameEn": "Selimiye Mosque Portal, Edirne",
+    "nameAr": "بوابة مسجد السليمية — أدرنة",
+    "fileName": "edirne_selimiye_portal.webp",
+    "sizeBytes": 324100,
+    "thumbSizeBytes": 59648,
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edirne_Selimiye_Mosque_Courtyard_Son_cemaat_yeri_and_entrance_058.jpg"
+  },
+  {
+    "id": "edirne_selimiye_interior",
+    "nameEn": "Selimiye Mosque, Edirne",
+    "nameAr": "مسجد السليمية — أدرنة",
+    "fileName": "edirne_selimiye_interior.webp",
+    "sizeBytes": 249598,
+    "thumbSizeBytes": 29162,
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edirne_Selimiye_Mosque_Courtyard_Son_cemaat_yeri_and_entrance_in_2017_3176.jpg"
+  },
+  {
+    "id": "kazan_kul_sharif",
+    "nameEn": "Qol Sharif Mosque, Kazan",
+    "nameAr": "مسجد قول شريف — قازان",
+    "fileName": "kazan_kul_sharif.webp",
+    "sizeBytes": 285938,
+    "thumbSizeBytes": 23778,
+    "author": "MBH",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kul_Sharif_Mosque_02.jpg"
+  },
+  {
+    "id": "lahore_badshahi",
+    "nameEn": "Badshahi Mosque, Lahore",
+    "nameAr": "المسجد البادشاهي — لاهور",
+    "fileName": "lahore_badshahi.webp",
+    "sizeBytes": 87666,
+    "thumbSizeBytes": 5024,
+    "author": "Zainab Binte Attiqe",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lahore_(Badshahi_Mosque).jpg"
+  }
+]
