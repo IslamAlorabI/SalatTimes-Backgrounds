@@ -1,5 +1,16 @@
 [
   {
+    "id": "mecca_kaaba",
+    "nameEn": "The Kaaba, Mecca",
+    "nameAr": "الكعبة المشرفة — مكة المكرمة",
+    "fileName": "mecca_kaaba.webp",
+    "sizeBytes": 525502,
+    "thumbSizeBytes": 43580,
+    "author": "Bjelica",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaaba_at_night_in_2024.jpg"
+  },
+  {
     "id": "medina_green_dome",
     "nameEn": "The Green Dome, Medina",
     "nameAr": "القبة الخضراء — المسجد النبوي",
